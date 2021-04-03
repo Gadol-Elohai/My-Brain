@@ -4,13 +4,15 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 
 ## Content
 
-- Linguistics and languages
+- Linguistics and Languages
 	- [Linguistics](content/Linguistics.md)
 	- [Languages](content/Languages.md)
 
 - Politics
-	- International relations
+	- [International relations](contents/IR.md)
 
-- Learning
+- [Learning](contents/Learning.md)
 
-- College
+- [College](contents/College.md)
+
+- [Book notes](content/booknotes.md)
