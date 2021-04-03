@@ -6,3 +6,4 @@ Here I keep knowledge related to international relations and [diplomacy](Diploma
 
 
 - [SICA](SICA.md)
+- [Trade](Trade.md)
