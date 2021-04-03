@@ -4,6 +4,7 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 
 == Content
 
+* link:content/Bookrecommends.adoc[Book recommendations / recomendaciones de libros] 
 * link:content/Christian.adoc[Christian / Cristiano]
 * Linguistics and Languages
 	** link:content/Linguistics.adoc[Linguistics]
@@ -13,5 +14,4 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 	* link:content/Diplomacy.adoc[Diplomacy]
 * link:content/Learning.adoc[Learning]
   * link:https://medium.com/@davidgasquez/building-a-personal-knowledge-base-1beb021784c4[Personal Knowledge Base]
-* link:content/Bookrecommends.adoc[Book recommendations / recomendaciones de libros]
 * link:content/Videogames.adoc[Video Games]
