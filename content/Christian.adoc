@@ -2,7 +2,7 @@
 
 Nexo de información sobre temas cristianos: teología, estudios bíblicos, devocionales...
 
-link:bookrecommends.adoc[Book recommendations]
+link:Bookrecommends.adoc[Book recommendations]
 
 == Theology / Teología
 
