@@ -1,0 +1,5 @@
+= This is an Asciidoc file. 
+
+I wonder if Github supports this natively. 
+
+Will it take me to the xref:readme.md[right page]?

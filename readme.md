@@ -4,16 +4,14 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 
 ## Content
 
+- [Christian / Cristiano](content/Christian.md)
 - Linguistics and Languages
 	- [Linguistics](content/Linguistics.md)
 	- [Languages](content/Languages.md)
-
-- [Politics](content/Politics.md)
-	- [International relations](content/IR.md)
+- [Politics /  Política](content/Politics.md)
+	- [International Relations / Relaciones Internacionales](content/IR.md)
 	- [Diplomacy](content/Diplomacy.md)
-
 - [Learning](content/Learning.md)
-
 - [College](content/College.md)
-
-- [Book notes](content/booknotes.md)
+- [Book recommendations](content/Bookrecommends.md)
+- [Video Games](content/Videogames.md)
