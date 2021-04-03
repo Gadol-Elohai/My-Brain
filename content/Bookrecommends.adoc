@@ -4,11 +4,13 @@ Un listado de libros que pretendo leer. La mayoría estarán en inglés.
 
 A list of books I intend on reading. 
 
-
-
 == Theology
 
+
+
 == Biblical studies
+
+* *A Biblical Theology of Exile* by _Daniel L. Smith Christopher_
 
 == International relations
 
@@ -17,4 +19,5 @@ A list of books I intend on reading.
 
 == Fiction
 
-* *The Chronicles of Narnia* by _C.S. Lewis_ - Beautiful story. 
+* *The Chronicles of Narnia* by _C.S. Lewis_ - The whole series, made of 7 books. Beautiful story that depicts the dynamics of Christ and Christianity very strongly. 
+* The Screwtape Letters* by _C.S. Lewis_ 
