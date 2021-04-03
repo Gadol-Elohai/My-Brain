@@ -3,3 +3,5 @@
 I wonder if Github supports this natively. 
 
 Will it take me to the xref:readme.md[right page]?
+
+Alright! It did! Now, will it take me to see xred:content/Diplomacy.md[Diplomacy]?
