@@ -1,6 +1,10 @@
-= Notebook
+= My Brain - Mi Cerebro
 
 This is the home page for my Personal Knowledge Base, where I intend to keep the stuff I know. 
+
+Esta es la página principal para mi base de conocimientos personal, en la que guardaré las cosas que he aprendido y deseo compartir, dentro de lo posible.
+
+link:content/AboutMe.adoc[About me / sobre mí]
 
 == Content
 
@@ -11,7 +15,10 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 	** link:content/Languages.adoc[Languages]
 * link:content/Politics.adoc[Politics /  Política]
 	** link:content/IR.adoc[International Relations / Relaciones Internacionales]
-	** link:content/Diplomacy.adoc[Diplomacy]
+	** link:content/Diplomacy.adoc[Diplomacy / Diplomacia]
+	** link:content/UrbanDesign.adoc[Urban Design and Transportation / Diseño Urbano y Movilidad]
+* link:content/Music.adoc[Music / Música]
+	** link:content/Musicrecommends.adoc[Recomendaciones de música]
 * link:content/Learning.adoc[Learning]
     ** link:https://medium.com/@davidgasquez/building-a-personal-knowledge-base-1beb021784c4[Personal Knowledge Base]
 * link:content/Videogames.adoc[Video Games]
