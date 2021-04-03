@@ -5,11 +5,11 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 ## Content
 
 - Linguistics and languages
-- - [Linguistics](content/Linguistics.md)
-- - [Languages](content/Languages.md)
+	- [Linguistics](content/Linguistics.md)
+	- [Languages](content/Languages.md)
 
 - Politics
-- - International relations
+	- International relations
 
 - Learning
 
