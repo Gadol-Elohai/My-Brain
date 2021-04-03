@@ -9,11 +9,11 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 	- [Languages](content/Languages.md)
 
 - [Politics](content/Politics.md)
-	- [International relations](contents/IR.md)
-	- [Diplomacy](contents/Diplomacy.md)
+	- [International relations](content/IR.md)
+	- [Diplomacy](content/Diplomacy.md)
 
-- [Learning](contents/Learning.md)
+- [Learning](content/Learning.md)
 
-- [College](contents/College.md)
+- [College](content/College.md)
 
 - [Book notes](content/booknotes.md)
