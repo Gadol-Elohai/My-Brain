@@ -8,8 +8,9 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 	- [Linguistics](content/Linguistics.md)
 	- [Languages](content/Languages.md)
 
-- Politics
+- [Politics](content/Politics.md)
 	- [International relations](contents/IR.md)
+	- [Diplomacy](contents/Diplomacy.md)
 
 - [Learning](contents/Learning.md)
 
