@@ -1,4 +1,4 @@
-# Sistema de la Integración Centroamericana (SICA)
+= Sistema de la Integración Centroamericana (SICA)
 
 Consiste de 8 países: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panamá y República Dominicana. 
 

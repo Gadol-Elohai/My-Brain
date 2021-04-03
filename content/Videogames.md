@@ -1,8 +1,0 @@
-# Video games
-
-Here will be some information about games I play and like. 
-
-
-
-[Spreadsheet with games I've played and their ratings](https://docs.google.com/spreadsheets/d/1IJj9tiEPOmGazc_BDcE_DB3V_O0aSVFqdPoYFrKmzTE/edit?usp=sharing)
-

@@ -1,0 +1,6 @@
+= International Relations
+
+Here I keep knowledge related to international relations and link:Diplomacy.adocdiplomacy.
+
+- link:SICA.adoc[SICA]
+- link:Trade.adoc[Trade]

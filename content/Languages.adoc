@@ -1,7 +1,5 @@
-# Languages
+= Languages
 
 This is where I keep my knowledge about languages in general. 
 
-
-
-## Constructed Languages (Conlangs)
+== Constructed Languages (Conlangs)

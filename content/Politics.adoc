@@ -1,0 +1,7 @@
+= Politics
+
+Here I keep information on political topics. 
+
+* link:IR.adoc[International Relations]
+* link:Diplomacy.adoc[Diplomacy]
+* Democracy: link:https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists[Voting Theory]

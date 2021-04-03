@@ -1,0 +1,11 @@
+= Christian / Cristiano
+
+Nexo de información sobre temas cristianos: teología, estudios bíblicos, devocionales...
+
+link:bookrecommends.adoc[Book recommendations]
+
+== Theology / Teología
+
+== Biblical Studies / Estudios Bíblicos
+
+
