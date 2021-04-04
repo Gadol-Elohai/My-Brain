@@ -8,6 +8,8 @@ link:content/AboutMe.adoc[About me / sobre mí]
 
 == Content
 
+image:images/library.jpeg
+
 * link:content/Bookrecommends.adoc[Book recommendations / recomendaciones de libros] 
 * link:content/Christian.adoc[Christian / Cristiano]
 * Linguistics and Languages
