@@ -8,7 +8,7 @@ link:content/AboutMe.adoc[About me / sobre mí]
 
 == Content
 
-image:images/library.jpeg
+image::images/library.jpg
 
 * link:content/Bookrecommends.adoc[Book recommendations / recomendaciones de libros] 
 * link:content/Christian.adoc[Christian / Cristiano]
