@@ -4,7 +4,7 @@ Un listado de libros que pretendo leer. La mayoría estarán en inglés.
 
 A list of books I intend on reading.
 
-image:images/bookstock.jpg[]
+image:images//bookstock.jpg[Aquí va una imagen!]
 
 == Theology
 
