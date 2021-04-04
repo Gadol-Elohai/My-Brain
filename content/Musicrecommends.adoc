@@ -25,6 +25,8 @@ Amo la música clásica. La encuentro una demostración de la impresionante crea
 Entre mis compositores clásicos favoritos están:
 
 * Dmitry Shostakovich
+** Fuga en A
+** Quinteto de piano
 * Pyotr Ilyich Tchaikovsky
 * Johann Sebastian Bach
 * Ludwig van Beethoven

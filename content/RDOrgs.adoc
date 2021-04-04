@@ -1,11 +1,11 @@
 # Organismos internacionales en los que participa la República Dominicana
 
 * link:SICA.adoc[SICA]
-** BCIE
+** Banco Centroamericano de Integración Económica (BCIE)
 * Proyecto Mesoamérica
 * Organización de las Naciones Unidas
 * Asociación de Estados del Caribe (AEC)
 * Cariforo
 * SELA
-* OEA
-* CELAC
+* Organización de Estados Americanos
+* Comunidad de Estados Latinoamericanos y del Caribe (CELAC)

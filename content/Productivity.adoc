@@ -1,6 +1,6 @@
 # Productivity / Productividad
 
-WIP. 
+WIP.
 
 ## Mental Palaces
 
@@ -11,3 +11,5 @@ Sherlock from BBC Sherlock uses them.
 ## Colemak Keyboard Layout
 
 ## Cornell Notes
+
+## Investing

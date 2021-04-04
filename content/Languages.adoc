@@ -1,5 +1,9 @@
 = Languages
 
-This is where I keep my knowledge about languages in general. 
+This is where I keep my knowledge about languages in general.
 
 == Constructed Languages (Conlangs)
+
+== Koiné Greek
+
+== Hebrew
