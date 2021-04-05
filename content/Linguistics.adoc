@@ -7,3 +7,14 @@ Here is my knowledge related to linguistics, I suppose.
 == Typology
 
 === Synthesis vs Analysis
+
+== Phonology
+
+* It is the study of how sounds work in a language.
+* *Phonemes* are sounds that a language distinguishes. For example, Mandarin doesn't distinguish [b] and [p], so they are not separate phonemes in Mandarin, but they are in English.
+
+== Phonetics
+
+=== International Phonetics Alphabet (IPA)
+
+The IPA is an alphabet meant to have symbols for all the sounds distinguished in all the languages in the world. It has two modalities: narrow transcription and broad transcription. Broad transcription is surrounded by forward-slashes // and basically only notates the phonemes in the language. Narrow transcription is surrounded by square brackets [], and is more specific. It has to notate as much detail as possible about the sounds, especially in relation to other sounds.
