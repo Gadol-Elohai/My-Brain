@@ -1,27 +1,26 @@
-= Raúl's Brain / El Cerebro de Raúl
+link:readmeES.adoc[En español]
 
-This is the home page for my Personal Knowledge Base, where I intend to keep the stuff I know.
+= Raúl's Brain
 
-Esta es la página principal para mi base de conocimientos personal, en la que guardaré las cosas que he aprendido y deseo compartir, dentro de lo posible.
+This is the home page for my Personal Knowledge Base, where I intend to keep the things I've learned and want to share, as far as possible.
 
-link:content/AboutMe.adoc[About me / Sobre mí]
+link:content/AboutMe.adoc[About me]
 
 == Content
 
 image:images/library.jpg[]
 
-* link:content/Bookrecommends.adoc[Book recommendations / recomendaciones de libros]
-* link:content/Christian.adoc[Christian / Cristiano]
-* Linguistics and Languages / Lingüística y Lenguaje
-	** link:content/Linguistics.adoc[Linguistics / Lingüística]
-	** link:content/Languages.adoc[Languages / Lenguaje]
-* link:content/Politics.adoc[Politics /  Política]
-	** link:content/IR.adoc[International Relations / Relaciones Internacionales]
-	** link:content/Diplomacy.adoc[Diplomacy / Diplomacia]
-	** link:content/UrbanDesign.adoc[Urban Design and Transportation / Diseño Urbano y Movilidad]
+* link:content/Bookrecommends.adoc[Book recommendations]
+* link:content/Christian.adoc[Christian]
+* Linguistics and Languages
+	** link:content/Linguistics.adoc[Linguistics]
+	** link:content/Languages.adoc[Languages]
+* link:content/Politics.adoc[Politics]
+	** link:content/IR.adoc[International Relations]
+	** link:content/UrbanDesign.adoc[Urban Design and Transportation]
 * link:content/Music.adoc[Music / Música]
 	** link:content/Musicrecommends.adoc[Recomendaciones de música]
-* link:content/Productivity[Productivity / Productividad]
+* link:content/Productivity[Productivity]
 * link:content/Learning.adoc[Learning]
   ** link:https://medium.com/@davidgasquez/building-a-personal-knowledge-base-1beb021784c4[Personal Knowledge Base]
 * link:content/Games.adoc[Games]
