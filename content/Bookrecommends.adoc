@@ -25,7 +25,7 @@ image:../images/bookstock.jpg[Aquí va una imagen!]
 
 == Fiction
 * *A Wrinkle in Time* by _Madeleine L'Engle_
-* *Phantastes* by _McDonald_ - An incredibly influential book, on such authors as C.S. Lewis and J.R.R. Tolkien
+* *Phantastes* by _McDonald_ - An incredibly influential book, on such authors as C.S. Lewis and J.R.R. Tolkien.
 * *The Chronicles of Narnia* by _C.S. Lewis_ - The whole series, made of 7 books. Beautiful story that depicts the dynamics of Christ and Christianity very strongly.
 * *The Screwtape Letters* by _C.S. Lewis_
 * *The Hobbit* by _J.R.R. Tolkien_

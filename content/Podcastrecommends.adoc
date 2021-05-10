@@ -52,8 +52,8 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * Exploring my Strange Bible
 
 == Bible Study and Theology
-* BibleProject Podcast
-* OnScript
+* link:https://bibleproject.com/podcasts/the-bible-project-podcast/[BibleProject Podcast]
+* link:https://onscript.study/[OnScript]
 * The Naked Bible Podcast
 
 == Fiction
