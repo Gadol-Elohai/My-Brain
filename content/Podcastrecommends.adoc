@@ -4,16 +4,16 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 
 == Linguistics and Language
 * link:https://lingthusiasm.com/[Lingthusiasm]
-* The History of English Podcasts
-* Words for Granted
-* A Way with Words
-* That's What They Say
-* The Allusionist
-* The Endless Knot
-* Wordy Wordpecker
-* en clair: forensic linguistics, literary detection, language mysteries, and more
-* Lexicon Valley
-* Conlangery - For Constructing Languages
+* link:https://historyofenglishpodcast.com/[The History of English Podcast]
+* link:https://www.wordsforgranted.com/[Words for Granted]
+* link:https://www.waywordradio.org/[A Way with Words]
+* link:https://www.npr.org/podcasts/381443663/that-s-what-they-say[That's What They Say]
+* link:https://www.theallusionist.org/[The Allusionist]
+* link:http://www.alliterative.net/podcast[The Endless Knot]
+* link:https://ivmpodcasts.com/wordy-wordpecker[Wordy Wordpecker]
+* link:https://wp.lancs.ac.uk/enclair/[en clair: - forensic linguistics, literary detection, language mysteries, and more]
+* link:https://slate.com/podcasts/lexicon-valley[Lexicon Valley]
+* link:https://conlangery.com/[Conlangery] - For Constructing Languages
 
 == History
 * The History of Rome Podcast - The OG History Podcast.
