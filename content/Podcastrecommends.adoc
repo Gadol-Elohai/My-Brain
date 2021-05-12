@@ -14,6 +14,7 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * link:https://wp.lancs.ac.uk/enclair/[en clair: - forensic linguistics, literary detection, language mysteries, and more]
 * link:https://slate.com/podcasts/lexicon-valley[Lexicon Valley]
 * link:https://conlangery.com/[Conlangery] - For Constructing Languages
+* New Books in Language
 
 == History
 * The History of Rome Podcast - The OG History Podcast.
@@ -55,6 +56,7 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * link:https://bibleproject.com/podcasts/the-bible-project-podcast/[BibleProject Podcast]
 * link:https://onscript.study/[OnScript]
 * The Naked Bible Podcast
+* New Books in Biblical Studies
 
 == Fiction
 * Among the Stars and Bones
