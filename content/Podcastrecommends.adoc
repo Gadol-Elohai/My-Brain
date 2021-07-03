@@ -41,6 +41,8 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * The Neurospace Podcast - Made by my very knowledgable and passionate neurologist/psychologist friend, Camila Hasbún.
 * El Brifin: Pocast Edition
 * Extremities
+* People I (Mostly) Admire
+* Sudhir Breaks the Internet
 
 == Mathematics
 * The Numberphile Podcast
@@ -57,6 +59,7 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * link:https://onscript.study/[OnScript]
 * The Naked Bible Podcast
 * New Books in Biblical Studies
+* link:https://podcasts.apple.com/us/podcast/working-for-the-word-a-bible-translation-podcast/id1494281053[Working for the Word]
 
 == Fiction
 * Among the Stars and Bones
