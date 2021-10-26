@@ -12,4 +12,6 @@ Sherlock from BBC Sherlock uses them.
 
 ## Cornell Notes
 
+## Zettelkasten note system
+
 ## Investing

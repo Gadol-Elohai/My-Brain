@@ -1,10 +1,10 @@
-= Podcasts I lisen to
+# Podcasts I lisen to
 
 For reference, I use the Podcast Addict android app to listen to podcasts.
 
-== Linguistics and Language
-* link:https://lingthusiasm.com/[Lingthusiasm]
-* The History of English Podcasts
+## [[Linguistics]] and Language
+* [[Lingthusiasm]] [Webpage](https://lingthusiasm.com/)
+* The History of English Podcast
 * Words for Granted
 * A Way with Words
 * That's What They Say

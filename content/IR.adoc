@@ -1,8 +1,0 @@
-= International Relations
-
-Here I keep knowledge related to international relations and link:Diplomacy.adocdiplomacy.
-
-link:RDOrgs.adoc[Organismos internacionales en los que participa la República Dominicana]
-
-* link:SICA.adoc[SICA]
-* link:Trade.adoc[Trade]

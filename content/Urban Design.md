@@ -1,12 +1,10 @@
-= Urban Design and Transportation / Diseño Urbano y Movilidad
+# Urban Design and Transportation
 
-Esta página está bajo construcción.
+## Movilidad
 
-== Movilidad
+### Movilidad Sostenible
 
-=== Movilidad Sostenible
-
-=== El caso contra los automóviles
+### El caso contra los automóviles
 
 * *Los automóviles contaminan.*
 * *Los automóviles ocupan mucho espacio:* causan entaponamientos y es necesario construir estacionamiento para ellos; espacio que podría usarse para otros fines.

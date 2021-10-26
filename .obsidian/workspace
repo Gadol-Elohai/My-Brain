@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b2929ef14971855b",
+    "type": "split",
+    "children": [
+      {
+        "id": "373ba9fbeea3049b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/YTrecommends.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f152fa4145e8ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "062884ea39e76192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fb776fb9a95e14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79103f78b62eefeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e2ef0c6f753df7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0477151b586864b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b7ab60f0b757a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/YTrecommends.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "373ba9fbeea3049b",
+  "lastOpenFiles": [
+    "content/YTrecommends.md",
+    "content/Scientific paper order.md",
+    "content/CEPREDENAC.md",
+    "content/SICA.md",
+    "content/Lagrangian.md",
+    "content/Mechanics.md",
+    "content/Umbrella clauses.md",
+    "content/Effective Highlight.md",
+    "content/Untitled.md",
+    "readme.md"
+  ]
+}

@@ -1,8 +1,8 @@
-= YouTube Channels I Watch
+# YouTube Channels I Watch
 
-== Video Games
+## Video Games
 
-* Chuggaaconroy
+* [[Chuggaaconroy]]
 * Beta64
 * cjszero01
 * Code Parade
@@ -20,7 +20,7 @@
 * TheJWittz
 * UncommentatedPannen - _The_ master of Super Mario 64, and creator of the "But first, we need to talk about parallel universes" meme.
 
-== Music
+## Music
 
 * 8-bit Music Theory
 * CharlesBerthoud
@@ -36,10 +36,10 @@
 * Supershigi - Laura Shigihara, known for composing the soundtrack for Plants vs Zombies.
 * TheDelRe
 * TwoSetViolin
-* unagondolaunremo - Aldo Bova, a truly amazing recorder player and author of the book I use.
+* unagondolaunremo - [[Aldo Bova]], a truly amazing recorder player and author of the book I use.
 
 
-== Educational
+## Educational
 
 * CGP Grey
 * City Beautiful
@@ -50,21 +50,22 @@
 * J.J. McCullough
 * Mathologer
 * Nobita From Japan
-* Tapakapa - Miscellaneous knowledge of geography, vexillology, and politics.
+* Tapakapa - Miscellaneous knowledge of geography, [[vexillology]], and politics.
 * Tom Scott
 * Vsauce
 
-=== Science
+### Science
 
-* DrPhysicsA - Advanced physics concepts explained in an understandable way, no holding back from the math.
+* DrPhysicsA - Advanced [[Physics]] concepts (particularly [[General Relativity]]) explained in an understandable way, no holding back from the math.
 * Looking Glass Universe
 * Frame of Essence
-* Quantum Fracture
+* Quantum Fracture: Spaniard channel in Spanish that tackles [[Physics]] topics [for a general audience](Pop-Sci.md)
 * Real Engineering
 * ScienceClic English
 * The Science Asylum
+* PBS Spacetime
 
-=== Mathematics
+### Mathematics
 
 * 3Blue1Brown
 * Numberphile
@@ -72,28 +73,28 @@
 * Vihart
 * Welch Labs
 
-=== Business
+### Business
 
 * Business Casual
 
-== Christian
+## Christian
 
 * BibleProject
 
-== Entertainment
+## Entertainment
 
 * Arrancao'
 * Dingo Doodles
 * Jaiden Animations
 * Puffin Forest
 
-== Conworlding
+## Conworlding
 
-* Artifexian
-* David Peterson
+* [[Artifexian]]
+* [[David Peterson]]: The modern [[Conlanging]] celebrity, creator of [[Dothraki]] and [[High Valyrian]] for [[Game of Thrones]].
 * Xidnaf
 
-== Languages
+## Languages
 
 * Dogen - Japanese comedy and learning.
 * La Japolatina

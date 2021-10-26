@@ -1,0 +1,43 @@
+= Diplomacy / Diplomacia
+
+Aquí información sobre la diplomacia, mi carrera de estudio y la cual actualmente ejerzo.
+
+== Styles / Tratamientos
+* Excelencia / Excelentísimio: Jefes de Estado y de Gobierno, Embajadores Extraordinarios y Plenipotenciarios, Secretarios y más altos funcionarios de Organismos Internacionales
+* Honorable: Miembros de legislaturas, Ministros de Gobierno, Viceministros de Relaciones Exteriores
+* Señoría: Cónsules, Alcaldes y Regidores, Jueces
+* Majestad: Reyes
+** Majestad Imperial: Emperadores
+* Alteza (Real): Príncipes
+
+== Comunicaciones diplomáticas
+
+La comunicación diplomática se caracteriza por fórmulas y protocolo fijos, dependiendo de a quién se escribe y sobre qué. puede parecer onerosa, pero en realidad permite transmitir toda la información necesaria en un espacio corto.
+
+Todas las comunicaciones diplomáticas terminan con un párrafo estándar de reconocimiento, tal como el siguiente:
+
+> El Ministerio de Relaciones Exteriores de la República Dominicana aprovecha la oportunidad para reiterar a la Honorable Embajada del Japón las seguridades de su más alta consideración y estima.
+
+En el caso de comunicaciones entre altos funcionarios (como de un Ministro de Relaciones Exteriores a un Secretario de una organización), se puede ver así:
+
+> Aprovecho la oportunidad para reiterarle las seguridades de mi más alta consideración y estima.
+
+=== Nota Verbal
+
+La comunicación diplomática más común y principal. No es "verbal" en el sentido de que se transmite oralmente; ese nombre viene de sus inicios. Usualmente se utilizan para transmitir una información breve o un documento adjunto.
+
+Algunas de sus características:
+
+* No lleva espacio de firma.
+* Tres o cuatro párrafos.
+
+=== Nota Firmada
+
+Esta es mucho menos común. Es utilizada para los temas más serios y solemnes, y se intercambian entre Ministros de Relaciones Exteriores, Jefes de Estado y de Gobierno, y los más altos funcionarios de organizaciones internacionales.
+
+Algunas de sus características:
+
+* Lleva espacio de firma, con el nombre y el título del firmante.
+* Tiene una forma menos fija, por lo que puede contener varios párrafos.
+
+link:../readme.adoc[Volver al inicio]
