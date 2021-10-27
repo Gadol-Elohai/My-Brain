@@ -2,6 +2,7 @@
 
 For reference, I use the Podcast Addict android app to listen to podcasts.
 
+<<<<<<< HEAD:content/Podcast recommendations.md
 ## [[Linguistics]] and Language
 * [[Lingthusiasm]] [Webpage](https://lingthusiasm.com/)
 * The History of English Podcast
@@ -14,6 +15,21 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * en clair: forensic linguistics, literary detection, language mysteries, and more
 * Lexicon Valley
 * Conlangery - For Constructing Languages
+=======
+== Linguistics and Language
+* link:https://lingthusiasm.com/[Lingthusiasm]
+* link:https://historyofenglishpodcast.com/[The History of English Podcast]
+* link:https://www.wordsforgranted.com/[Words for Granted]
+* link:https://www.waywordradio.org/[A Way with Words]
+* link:https://www.npr.org/podcasts/381443663/that-s-what-they-say[That's What They Say]
+* link:https://www.theallusionist.org/[The Allusionist]
+* link:http://www.alliterative.net/podcast[The Endless Knot]
+* link:https://ivmpodcasts.com/wordy-wordpecker[Wordy Wordpecker]
+* link:https://wp.lancs.ac.uk/enclair/[en clair: - forensic linguistics, literary detection, language mysteries, and more]
+* link:https://slate.com/podcasts/lexicon-valley[Lexicon Valley]
+* link:https://conlangery.com/[Conlangery] - For Constructing Languages
+* New Books in Language
+>>>>>>> 6cf94028148cabb69ede3b3a82acbce4a28d0e2d:content/Podcastrecommends.adoc
 
 == History
 * The History of Rome Podcast - The OG History Podcast.
@@ -40,6 +56,8 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * The Neurospace Podcast - Made by my very knowledgable and passionate neurologist/psychologist friend, Camila Hasbún.
 * El Brifin: Pocast Edition
 * Extremities
+* People I (Mostly) Admire
+* Sudhir Breaks the Internet
 
 == Mathematics
 * The Numberphile Podcast
@@ -52,9 +70,11 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 * Exploring my Strange Bible
 
 == Bible Study and Theology
-* BibleProject Podcast
-* OnScript
+* link:https://bibleproject.com/podcasts/the-bible-project-podcast/[BibleProject Podcast]
+* link:https://onscript.study/[OnScript]
 * The Naked Bible Podcast
+* New Books in Biblical Studies
+* link:https://podcasts.apple.com/us/podcast/working-for-the-word-a-bible-translation-podcast/id1494281053[Working for the Word]
 
 == Fiction
 * Among the Stars and Bones
