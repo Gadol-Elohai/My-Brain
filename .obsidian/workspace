@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "373ba9fbeea3049b",
+        "id": "18029d0a6364d4c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "_inbox/Escalafon Diplomatico.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_inbox/Escalafon Diplomatico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "373ba9fbeea3049b",
+  "active": "18029d0a6364d4c9",
   "lastOpenFiles": [
+    "_inbox/Escalafon Diplomatico.md",
     "readme.md",
-    "content/YTrecommends.md",
-    "content/Scientific paper order.md",
-    "content/CEPREDENAC.md",
-    "content/SICA.md",
+    "content/Book Recommendations.md",
     "content/Lagrangian.md",
-    "content/Mechanics.md",
-    "content/Umbrella clauses.md",
-    "content/Effective Highlight.md",
-    "content/Untitled.md"
+    "content/Euler-Lagrange Equation.md",
+    "content/Noethers Theorem.md",
+    "content/CEPREDENAC.md",
+    "content/About Me.md",
+    "content/YTrecommends.md",
+    "content/Scientific paper order.md"
   ]
 }
