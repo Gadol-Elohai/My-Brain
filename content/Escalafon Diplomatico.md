@@ -1,5 +1,5 @@
 # El escalafón diplomático es la escala de rangos de los diplomáticos
-El escalafón es la clasificación de Diplomáticos según sus rangos, que determina su rol en las Embajadas y la Cancillería, y su lugar en el orden protocolario nacional e internacional. El escalafón es el siguiente:
+El escalafón es la clasificación de [Diplomáticos](Diplomatic%20Agents) según sus rangos, que determina su rol en las Embajadas y la Cancillería, y su lugar en el orden protocolario nacional e internacional. El escalafón es el siguiente:
 
 1. Embajador
 2. Ministro Consejero
@@ -20,6 +20,6 @@ Igualmente, se celebra una evaluación de desempeño, y solo si esta sale exitos
 Los ascensos de rango se efectúan por antigüedad por la Dirección de Carrera Diplomática del Ministerio de Relaciones Exteriores.
 
 ## References
-*Diplomacia Contemporánea* by _[[Manuel Morales Lama]]_
+[Lama, Manuel Morales](Manuel%20Morales%20Lama). (2015). Diplomacia Contemporánea(11.aed.). Editora Búho.
 * Reglamento de Carrera Diplomática
 * Ley 630-16 Orgánica del Ministerio de Relaciones Exteriores
