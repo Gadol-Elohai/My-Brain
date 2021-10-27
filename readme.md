@@ -12,11 +12,11 @@ This is the home page for my Personal Knowledge Base, where I intend to keep the
 
 * [Book recommendations](Book%20Recommendations.md)
 * Linguistics and Languages
-	** [Linguistics](content/Linguistics.md)
+	* [Linguistics](content/Linguistics.md)
 * Politics
-	** [Urban Design and Transportation](Urban%20Design.md)
+	* [Urban Design and Transportation](Urban%20Design.md)
 * Music
-	** [Recomendaciones de música](Music%20recommendations.md)
+	* [Recomendaciones de música](Music%20recommendations.md)
 * [Productivity](content/Productivity.md)
-* [Learning](content/Learning.md)
-  ** [Personal Knowledge Base](https://medium.com/@davidgasquez/building-a-personal-knowledge-base-1beb021784c4)
+* Learning
+  * [Personal Knowledge Base](https://medium.com/@davidgasquez/building-a-personal-knowledge-base-1beb021784c4)

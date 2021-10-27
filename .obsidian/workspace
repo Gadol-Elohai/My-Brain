@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/YTrecommends.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/YTrecommends.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "373ba9fbeea3049b",
   "lastOpenFiles": [
+    "readme.md",
     "content/YTrecommends.md",
     "content/Scientific paper order.md",
     "content/CEPREDENAC.md",
@@ -96,7 +97,6 @@
     "content/Mechanics.md",
     "content/Umbrella clauses.md",
     "content/Effective Highlight.md",
-    "content/Untitled.md",
-    "readme.md"
+    "content/Untitled.md"
   ]
 }
