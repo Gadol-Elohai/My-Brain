@@ -7,11 +7,8 @@
         "id": "373ba9fbeea3049b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readme.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "373ba9fbeea3049b",
   "lastOpenFiles": [
+    "content/Mechanics.md",
+    "content/Action Physics.md",
     "readme.md",
     "content/YTrecommends.md",
     "content/Scientific paper order.md",
     "content/CEPREDENAC.md",
     "content/SICA.md",
     "content/Lagrangian.md",
-    "content/Mechanics.md",
     "content/Umbrella clauses.md",
-    "content/Effective Highlight.md",
-    "content/Untitled.md"
+    "content/Effective Highlight.md"
   ]
 }

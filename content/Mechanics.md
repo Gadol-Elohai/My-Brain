@@ -4,4 +4,4 @@
 ** [[Electromagnetism]]
 * [Lagrangian Mechanics models the entire path of a particle](Lagrangian Mechanics.md) based on its energies and the ["Action"](Action%20Physics.md).
 * [Hamiltonian Mechanics](Hamiltonian Mechanics.md)
-* [Quantum Mechanics](Quantum Mechanics.md)
+* [Quantum Mechanics](QuantumMechanics.md)
