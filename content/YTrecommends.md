@@ -2,7 +2,7 @@
 
 ## Video Games
 
-* [[Chuggaaconroy]]
+* Chuggaaconroy
 * Beta64
 * cjszero01
 * Code Parade
@@ -90,8 +90,8 @@
 
 ## Conworlding
 
-* [[Artifexian]]
-* [[David Peterson]]: The modern [[Conlanging]] celebrity, creator of [[Dothraki]] and [[High Valyrian]] for [[Game of Thrones]].
+* Artifexian
+* [[David Peterson]]: The modern Conlanging celebrity, creator of [[Dothraki]] and [[High Valyrian]] for [[Game of Thrones]].
 * Xidnaf
 
 ## Languages
@@ -105,4 +105,4 @@
 * The Ling Space
 * Wikitongues
 * 2:00 mindwraps
-* Alliterative - Etymologies and connections between words and concepts.
+* Alliterative - [Etymologies](Etymology.md) and connections between words and concepts.

@@ -7,7 +7,11 @@
         "id": "18029d0a6364d4c9",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "empty",
+=======
+          "type": "graph",
+>>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
           "state": {}
         }
       }
@@ -84,15 +88,27 @@
   },
   "active": "18029d0a6364d4c9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "_inbox/Temp Artículo.md",
     "content/Escalafon Diplomatico.md",
+=======
+    "content/Mechanics.md",
+    "content/Action Physics.md",
+    "readme.md",
+    "content/YTrecommends.md",
+>>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
     "content/Scientific paper order.md",
     "content/Ruptura Rels Dips.md",
     "readme.md",
     "content/Book Recommendations.md",
     "content/Lagrangian.md",
+<<<<<<< HEAD
     "content/Euler-Lagrange Equation.md",
     "content/Noethers Theorem.md",
     "content/CEPREDENAC.md"
+=======
+    "content/Umbrella clauses.md",
+    "content/Effective Highlight.md"
+>>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
   ]
 }
