@@ -13,7 +13,15 @@ The formal structure is parallelism:
 
 Alter argues that Biblical poetry is not "thought rhymes" as in the **same** idea is restated, but that movement comes from the parallelism: namely, the differences in the parallelism are highlighted, and the versets reinforce each other. Ex.: Numbers are used not literally, but as a "how much more so" strategy.
 
-In many pairs, the poetry seems to move from a more common term (i.e. *qol* "voice") to a more literary term (i.e. *imrah* "speech/utterance"), or sometimes backwards. This can mean a slight development of meaning between the verses (Psa. 88:12-13 steadfast care / constancy; gave / perdition; wonders / bounty; darkness / oblivion)
+In many pairs, the poetry seems to move from a more common term (i.e. *qol* "voice") to a more literary term (i.e. *imrah* "speech/utterance"), or sometimes backwards. This can mean a slight development of meaning between the verses (Psa. 88:12-13 steadfast care / constancy; gave / perdition; wonders / bounty; darkness / oblivion).
+
+Alter identifies many functions of semantic parallelism:
+* Intensification (Pro. 3:10 _Abundance_ -> _burst_)
+* Cause and effect (Job 5:10 _rain_ -> _water_)
+* Geographical specification (Jer. 7:34 _cities of Judea_ -> _streets of Jerusalem_)
+* Concretization or specification (Pro. 1:14 _lot_ -> _purse_; Lam 1:2 _weeps_ -> _tears on her cheeks_)
+
+There is also verbatim repetition, but with added elements (Judges 5:23) and hidden repetition, such as when a verb in the first verset governs the second verset as well. 
 
 ## References
 Alter, Robert. (2011). *The Art of Biblical Poetry*. Basic Books, Inc. 
