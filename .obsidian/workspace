@@ -1,33 +1,32 @@
 {
   "main": {
-    "id": "b2929ef14971855b",
+    "id": "9fbeb50d5509f981",
     "type": "split",
     "children": [
       {
-        "id": "18029d0a6364d4c9",
+        "id": "e13230f9f95f3958",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "empty",
-=======
-          "type": "graph",
->>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_inbox/2021-11-18 Comprehensible input is the best way to acquire language.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0f152fa4145e8ff9",
+    "id": "1ee2bab86fdd5853",
     "type": "split",
     "children": [
       {
-        "id": "062884ea39e76192",
+        "id": "4badd8416f70016f",
         "type": "tabs",
         "children": [
           {
-            "id": "11fb776fb9a95e14",
+            "id": "e353e177d0ee700a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "79103f78b62eefeb",
+            "id": "98704c1dfc603c13",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "9e2ef0c6f753df7b",
+    "id": "df011a6c919b8c75",
     "type": "split",
     "children": [
       {
-        "id": "0477151b586864b1",
+        "id": "fd3c469b3e62ae36",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b7ab60f0b757a0",
+            "id": "1295b66b0b7730f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_inbox/2021-11-18 Comprehensible input is the best way to acquire language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,29 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18029d0a6364d4c9",
+  "active": "e13230f9f95f3958",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "_inbox/Temp Artículo.md",
-    "content/Escalafon Diplomatico.md",
-=======
-    "content/Mechanics.md",
-    "content/Action Physics.md",
-    "readme.md",
-    "content/YTrecommends.md",
->>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
-    "content/Scientific paper order.md",
-    "content/Ruptura Rels Dips.md",
-    "readme.md",
-    "content/Book Recommendations.md",
-    "content/Lagrangian.md",
-<<<<<<< HEAD
-    "content/Euler-Lagrange Equation.md",
-    "content/Noethers Theorem.md",
-    "content/CEPREDENAC.md"
-=======
-    "content/Umbrella clauses.md",
-    "content/Effective Highlight.md"
->>>>>>> f85507d7af89923ee706ba45cdc7a74ed82f638b
+    "_inbox/2021-11-18 Comprehensible input is the best way to acquire language.md",
+    "_inbox/Jesus as Melchizedek in the Gospels.md",
+    "content/Effective Highlight.md",
+    "content/Urban Design.md",
+    "content/2021-11-20 Overworking is a result of lack of awe and trust in God.md",
+    "content/2021-11-19 Cognitive behavioral therapy reduces crime.md"
   ]
 }

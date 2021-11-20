@@ -49,7 +49,7 @@ For reference, I use the Podcast Addict android app to listen to podcasts.
 
 == General Knowledge
 * Tell Me Something I Don't Know
-* Freakonomics
+* Freakonomics: A podcast about economics and related things (hint: everything) by brilliant economist and communicator [[Stephen Dubner]]. This podcast is for everyone who wants to build a better society.
 * Every Little Thing
 * Stuff You Should Know
 * Surprisingly Awesome
