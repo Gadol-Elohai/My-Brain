@@ -1,6 +1,8 @@
 Title: The Art of Biblical Narrative Ch. 1: The Dynamics of Parallelism
 Author: Robert Alter
 
+Date: 2021-10-28 
+
 Different models for the basis of Biblical Poetry have been proposed: parallelism, sound and syllables, and syntax. Some things are irrecoverable: the actual original sound of the poetry. We also don't always have the nuances of the original phrases. Finally, we don't know what the original line breaks were, and it's not even always clear where prose ends and poetry begins.
 
 The first example is Lamech's speech to his wives in Gen. 4:23-24. He first argues that it is a poem (citing Barbara Smith), because it has a sustained rhythm, with a formal structure, therefore we experience it as poetry.

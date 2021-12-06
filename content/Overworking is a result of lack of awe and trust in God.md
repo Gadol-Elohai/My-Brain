@@ -1,5 +1,7 @@
 # Overworking is arrogance as a result of lack of awe and trust in God.
 
+Date: 2021-11-20 
+
 God rules all things, and he has promised to provide what we need. When we believe this and trust this, and we are awed by this truth, we live with confidence, with less fear, and we work at what we have with joy.
 
 When we are not awed by this and don't trust this, we take on the role of a king in our lives, and take on the whole world on our shoulders -- a burden that is God's to bear. It is exhausting arrogance, because the world does not depend on us, but on God. 

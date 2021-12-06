@@ -1,5 +1,7 @@
 # Cognitive behavioral therapy reduces crime significantly
 
+Date: 2021-11-19 
+
 Crime seems to be caused in great part by [[System 1]] decision making -- fast and nearly instinctual thinking. [[Cognitive-behavioral therapy]] gives people the tools to slow down their thinking and assess whether their instinctual responses are appropriate to the situation -- more akin to [[System 2]] thinking, and this changed decision making has produced reductions in arrests and violent arrest of 28-35% and 45-50%, respectively, in intervened areas in Chicago. 
 
 The study was done on high-school and college-level students, and school dropout rates were also reduced, not unrelated to crime.

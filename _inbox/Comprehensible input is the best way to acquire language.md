@@ -1,4 +1,7 @@
 # Comprehensible input is the best way to acquire language
+
+Date: 2021-11-18
+
 [[Acquiring language and learning language are different.]] [[Stephen Krashen]] discovered that the only way we acquire language is by understanding it. Beginners learn by absorbing without speaking much at first, and then speaking comes naturally. 
 
 Comprehensible input is language input that we understand: we acquire language when we understand it. Teaching by exposure to input the students understand is the best way for them to acquire a language. 
