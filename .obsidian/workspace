@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_inbox/CBT P1 - Formulation Cognitive Terms.md",
+            "file": "_inbox/CBT P3 - Collaboration Emphasis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/CBT P1 - Formulation Cognitive Terms.md",
+                "file": "_inbox/CBT P3 - Collaboration Emphasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e13230f9f95f3958",
   "lastOpenFiles": [
+    "_inbox/CBT P3 - Collaboration Emphasis.md",
     "_inbox/CBT P1 - Formulation Cognitive Terms.md",
     "content/Bayesian Probability.md",
     "content/Probability Interpretation.md",
@@ -96,7 +97,6 @@
     "content/Bayes Theorem.md",
     "content/Action Physics.md",
     "_inbox/Biblical Poetry Ch. 1.md",
-    "_inbox/Comprehensible input is the best way to acquire language.md",
-    "_inbox/Asi se domina el mundo.md"
+    "_inbox/Comprehensible input is the best way to acquire language.md"
   ]
 }
