@@ -2,7 +2,6 @@
 
 For reference, I use the Podcast Addict android app to listen to podcasts.
 
-<<<<<<< HEAD:content/Podcast recommendations.md
 ## [[Linguistics]] and Language
 * [[Lingthusiasm]] [Webpage](https://lingthusiasm.com/)
 * The History of English Podcast

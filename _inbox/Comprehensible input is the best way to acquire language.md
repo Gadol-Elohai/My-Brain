@@ -10,6 +10,6 @@ This exposure begins as simple sentences in context, such as self-introductions.
 
 ## Sources
 
-Case, Andrew. (2020, August 9). A Paradigm Shift in Acquiring the Biblical Languages part 2. \[Podcast\]. https://anchor.fm/andrew-case1/episodes/A-Paradigm-Shift-in-Acquiring-the-Biblical-Languages-part-2-eire8t
+[Case, Andrew](<Andrew Case>). (2020, August 9). A Paradigm Shift in Acquiring the Biblical Languages part 2. \[Podcast\]. https://anchor.fm/andrew-case1/episodes/A-Paradigm-Shift-in-Acquiring-the-Biblical-Languages-part-2-eire8t
 
 Krashen, Stephen D. and Terrell, Tracy D. (1998). *The Natural Approach: Language Acquisition in the Classroom.* Prentice Hall Europe. http://www.sdkrashen.com/content/books/the_natural_approach.pdf

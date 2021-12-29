@@ -1,7 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": false,
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

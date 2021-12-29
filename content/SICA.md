@@ -15,7 +15,7 @@ Tiene 5 pilares:
 - Integración Social
 - Desarrollo Institucional
 
-El funcionario administrativo más alto es el Secretario General, que de 2017-2021 fue Vinicio Cerezo, expresidente de Guatemala. 
+El funcionario administrativo más alto es el Secretario General, que de 2017-2021 fue [[Vinicio Cerezo]], expresidente de Guatemala. 
 
 Su estructura orgánica prinpical es:
 * Reunión de Presidentes: Máxima autoridad, crea las guías de la dirección del sistema.

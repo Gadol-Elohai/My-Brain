@@ -8,7 +8,7 @@ The way to read a paper varies significantly based on what your goals are. For m
 1. **Skim through the body:** Read only the titles at first, to familiarize yourself with the text and get a structure in your head. After, start reading the results of each section, then the explanations and any interesting figures you find.
 1. Only if you need to go so in-depth, study the methodology or experiment design.
 
-While reading, [Highlight to process later](Effective Highlight.md).
+While reading, [Highlight to process later](Effective%20Highlight.md).
 
 ## References
 Kirsanov, Artem. \[[[Artem Kirsanov]]\]. (2021, Oct 9). *How to read papers effectively | Research reading technique* \[Video\]. YouTube. https://www.youtube.com/watch?v=4yOm4kklKIA

@@ -8,14 +8,14 @@ Specifically, it says that a conservation law and a symmetry in the equations ar
 * Rotational symmetry <-> conservation of angular momentum
 
 For example, if the [[Lagrangian]] is translationally symmetric in a system:
-ℒ(x,v,t)=ℒ(x+1,v,t)
+$$ℒ(x,v,t)=ℒ(x+1,v,t)$$
 Then, according to the [[Euler-Lagrange Equation]]:
-∂/∂t (½mv²)= ∂ℒ/∂x
-∂ℒ/∂x = 0
+$$\frac{∂}{∂t} (½mv²) = \frac{∂}{∂x} ℒ$$
+$$\frac{∂}{∂x} ℒ = 0$$ because that is what it means to be translationally invariant. Therefore
 
-∴ ∂/∂t (mv) = 0
+$$\frac{∂}{∂t} (mv) = 0$$
 Otherwise read as: momentum is conserved.
 
 ## References
 
-M, Orla. [[Orla M]]. (2021, Aug 23). _Noether's Theorem - Summer of Math Exposition 3blue1brown SoME1_ \[Video\]. YouTube. https://www.youtube.com/watch?v=78wz4KSzUvo
+M, Orla. \[Orla M\]. (2021, Aug 23). _Noether's Theorem - Summer of Math Exposition 3blue1brown SoME1_ \[Video\]. YouTube. https://www.youtube.com/watch?v=78wz4KSzUvo

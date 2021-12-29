@@ -20,6 +20,6 @@ Igualmente, se celebra una evaluación de desempeño, y solo si esta sale exitos
 Los ascensos de rango se efectúan por antigüedad por la Dirección de Carrera Diplomática del Ministerio de Relaciones Exteriores.
 
 ## References
-[Lama, Manuel Morales](Manuel%20Morales%20Lama). (2015). Diplomacia Contemporánea(11.aed.). Editora Búho.
-* Reglamento de Carrera Diplomática
-* Ley 630-16 Orgánica del Ministerio de Relaciones Exteriores
+- [Lama, Manuel Morales](Manuel%20Morales%20Lama). (2015). *Diplomacia Contemporánea* (11.a ed.). Editora Búho.
+- Reglamento de Carrera Diplomática.
+- Ley 630-16 Orgánica del Ministerio de Relaciones Exteriores. 

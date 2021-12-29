@@ -6,6 +6,7 @@ A list of books I intend on reading or have read.
 
 ## Theology
 * **A Biblical Theology of Exile** by _[[Daniel L. Smith Christopher]]_
+* **Paul and the Power of the Gift** by _[[John Barclay]]_
 
 ## Biblical Studies
 * *The Art of Biblical Poetry* by _[[Robert Alter]]_
