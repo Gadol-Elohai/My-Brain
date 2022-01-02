@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_inbox/Mature Christianity is maximalist.md",
+            "file": "content/Podcast recommendations.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/Mature Christianity is maximalist.md",
+                "file": "content/Podcast recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "9a982255d94704f3",
   "lastOpenFiles": [
-    "_inbox/Mature Christianity is maximalist.md",
+    "content/Podcast recommendations.md",
+    "content/Mature Christianity is maximalist.md",
     "quotes/Son of Adam Honor.md",
     "quotes/Quote on what pleases God.md",
     "quotes/Abraham Cowley A Man Child Born.md",
@@ -97,7 +98,6 @@
     "content/Comprehensible input.md",
     "quotes/Why God made us A Theology of Making.md",
     "quotes/The realness of people in hell.md",
-    "quotes/New Bible Commentary on interpreting letters.md",
-    "quotes/Laudato Si sobre el diseño del espacio físico.md"
+    "quotes/New Bible Commentary on interpreting letters.md"
   ]
 }
