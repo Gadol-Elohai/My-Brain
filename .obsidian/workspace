@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "quotes/Pastor Muñoz on being with people.md",
+            "file": "content/Holiness devotion.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quotes/Pastor Muñoz on being with people.md",
+                "file": "content/Holiness devotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "9a982255d94704f3",
   "lastOpenFiles": [
+    "content/Holiness devotion.md",
     "quotes/Pastor Muñoz on being with people.md",
     "content/Podcast recommendations.md",
     "content/Mature Christianity is maximalist.md",
@@ -97,7 +98,6 @@
     "quotes/Abraham Cowley A Man Child Born.md",
     "content/Johnny Decimal System.md",
     "content/Comprehensible input.md",
-    "quotes/Why God made us A Theology of Making.md",
-    "quotes/The realness of people in hell.md"
+    "quotes/Why God made us A Theology of Making.md"
   ]
 }
