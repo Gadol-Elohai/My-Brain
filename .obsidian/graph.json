@@ -1,24 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "c.s.",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:CBT",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "section:(physics)",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     }
   ],

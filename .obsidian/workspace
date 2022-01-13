@@ -7,12 +7,8 @@
         "id": "9a982255d94704f3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/Holiness devotion.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Holiness devotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "9a982255d94704f3",
   "lastOpenFiles": [
-    "content/Holiness devotion.md",
-    "quotes/Pastor Muñoz on being with people.md",
-    "content/Podcast recommendations.md",
-    "content/Mature Christianity is maximalist.md",
     "quotes/Son of Adam Honor.md",
-    "quotes/Quote on what pleases God.md",
-    "quotes/Abraham Cowley A Man Child Born.md",
-    "content/Johnny Decimal System.md",
-    "content/Comprehensible input.md",
-    "quotes/Why God made us A Theology of Making.md"
+    "content/Book Recommendations.md",
+    "quotes/The realness of people in hell.md",
+    "content/Holiness devotion.md",
+    "content/Cognitive Model.md",
+    "content/CBT P1 - Formulation Cognitive Terms.md",
+    "content/Bayesian Probability.md",
+    "content/Bayes Theorem.md",
+    "content/Action Physics.md",
+    "quotes/Pastor Muñoz on being with people.md"
   ]
 }
