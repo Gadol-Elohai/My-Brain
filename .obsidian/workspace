@@ -7,8 +7,12 @@
         "id": "9a982255d94704f3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_inbox/Write what you know.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_inbox/Write what you know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "9a982255d94704f3",
   "lastOpenFiles": [
+    "_inbox/Write what you know.md",
     "quotes/Son of Adam Honor.md",
     "content/Book Recommendations.md",
     "quotes/The realness of people in hell.md",
@@ -92,7 +98,6 @@
     "content/CBT P1 - Formulation Cognitive Terms.md",
     "content/Bayesian Probability.md",
     "content/Bayes Theorem.md",
-    "content/Action Physics.md",
-    "quotes/Pastor Muñoz on being with people.md"
+    "content/Action Physics.md"
   ]
 }
